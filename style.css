@@ -1,0 +1,36 @@
+.calculatorShell {
+  text-align: center;
+  margin-top: 23px;
+}
+table {
+  margin: auto;
+}
+input {
+  border: 50px;
+  border-radius: 10px;
+  background-color: rgb(15, 179, 56) violet;
+  border: 5px solid #df0d0d;
+  font-size: 34px;
+  height: 80px;
+  width: 460px;
+}
+button {
+  border-radius: 50px;
+  font-size: 50px;
+  background: #4d02ad;
+  width: 102px;
+  height: 100px;
+  margin: 9px;
+}
+.mainCalculator {
+  border: 25px solid #13695d;
+  background-color: #c5da0a;
+  padding: 23px;
+  border-radius: 70px;
+  display: inline-block;
+}
+.photoFeature {
+  color: rgb(226, 60, 19);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100%;
+}
